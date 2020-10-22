@@ -3,7 +3,7 @@
 I'm a big fan of NLP, AI, debate, and rougelike video games. 
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Hellisotherpeople)](https://github.com/anuraghazra/github-readme-stats)
+![My github stats](https://github-readme-stats.vercel.app/api?username=Hellisotherpeople)
 
 
 Find me on [linkedin](https://www.linkedin.com/in/allen-roush-27721011b/)
