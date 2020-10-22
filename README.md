@@ -1,10 +1,13 @@
 ### Hi there 👋
 
 I'm a big fan of NLP, AI, debate, and rougelike video games. 
+
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=Hellisotherpeople)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Find me on [linkedin](https://www.linkedin.com/in/allen-roush-27721011b/)
 
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Hellisotherpeople)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Hellisotherpeople/Hellisotherpeople** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
