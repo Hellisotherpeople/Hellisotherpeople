@@ -8,6 +8,8 @@ I'm a big fan of NLP, AI, debate, and rougelike video games.
 
 Find me on [linkedin](https://www.linkedin.com/in/allen-roush-27721011b/)
 
+Also, check out my webapps and models on my [Huggingface Profile](https://huggingface.co/Hellisotherpeople)
+
 
 <!--
 **Hellisotherpeople/Hellisotherpeople** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
