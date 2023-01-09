@@ -10,6 +10,8 @@ Find me on [linkedin](https://www.linkedin.com/in/allen-roush-27721011b/)
 
 Also, check out my webapps and models on my [Huggingface Profile](https://huggingface.co/Hellisotherpeople)
 
+Finally, I'm quite the AI artist now. See my work on [Instagram](https://www.instagram.com/coplandartstudios/)
+
 
 <!--
 **Hellisotherpeople/Hellisotherpeople** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
